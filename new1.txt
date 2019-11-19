@@ -1,2 +1,0 @@
-Git id s version control system.
-Git is free software.
